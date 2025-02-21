@@ -1,6 +1,6 @@
 # Walton Sales Analytics
-### Basic Sales Performance Analysis:
-!https://github.com/marjia999/Walton-Sales-PowerBI/blob/acbce689fd7aa17f633308e3ef34d0439dd20b6f/Sales%20Performance.jpg
+## Basic Sales Performance Analysis:
+!(https://github.com/marjia999/Walton-Sales-PowerBI/blob/acbce689fd7aa17f633308e3ef34d0439dd20b6f/Sales%20Performance.jpg)
 sales data was cleaned, relationships were established, and visualizations such as a tree map for sales distribution and a bar chart for category-wise item sales were created.
 
 Case 2: Intermediate Customer & Sales Insights involved integrating customer data, calculating Average Revenue Per Buyer (ARPB) using DAX, and visualizing trends through bar charts, pie charts, and line charts. Additionally, sales campaign suggestions were provided based on purchasing behavior.

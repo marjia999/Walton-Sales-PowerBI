@@ -1,5 +1,9 @@
 # Walton Sales Analytics
-in this
+The Walton Sales Analytics provides insights into sales performance, customer behavior, and inventory management. By analyzing sales data, customer trends, and stock levels, this analysis helps to improve decision-making for better sales strategies and efficient logistics. The tools used include Power BI, Power Query, and Excel, with visualizations focusing on 3 case study:
+1. Basic Sales Performance Analysis
+2. Customer & Sales Insights
+3. Delivery & Stock Insights
+
 ### Basic Sales Performance Analysis:
 ![image Alt](https://github.com/marjia999/Walton-Sales-PowerBI/blob/acbce689fd7aa17f633308e3ef34d0439dd20b6f/Sales%20Performance.jpg)
 Sales data was cleaned in Power Query, relationships were established, and visualizations such as cards for Total Sales, Total Order, Total items, a tree map for sales distribution and a bar chart for category-wise item sales were created.
